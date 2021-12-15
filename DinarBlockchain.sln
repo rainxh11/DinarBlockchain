@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinar", "DinarBlockchain\Dinar.csproj", "{989A288F-44BA-4A73-9ECC-A9E6614E3C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinarConsole", "DinarConsole\DinarConsole.csproj", "{BCD20AE9-711F-44D3-9A91-8B466BD54628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989A288F-44BA-4A73-9ECC-A9E6614E3C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989A288F-44BA-4A73-9ECC-A9E6614E3C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989A288F-44BA-4A73-9ECC-A9E6614E3C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989A288F-44BA-4A73-9ECC-A9E6614E3C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD20AE9-711F-44D3-9A91-8B466BD54628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD20AE9-711F-44D3-9A91-8B466BD54628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD20AE9-711F-44D3-9A91-8B466BD54628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD20AE9-711F-44D3-9A91-8B466BD54628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723230EB-5026-4FC0-8DEC-BA9426426D26}
+	EndGlobalSection
+EndGlobal
